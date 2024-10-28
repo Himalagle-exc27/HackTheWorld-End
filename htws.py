@@ -1,4 +1,4 @@
-# -*- coding: sky404 -*-
+# -*- coding: utf8 -*-
 
 ##terminal text colours code
 #cyan='\e[0;36m'
